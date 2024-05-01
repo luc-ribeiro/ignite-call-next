@@ -2,7 +2,22 @@
 Ignite Call 
 </h1>
 
-![image](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/01cb55b7-7f94-4ec1-bb7d-1195933fbf3b)
+<div align="center">
+  
+![image](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/780d3506-7e22-4856-b8f2-1d878e44ffb6)
+
+![Screenshot_1](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/7de62983-9a79-4b6e-903e-fabcd65b5aad)
+
+![Screenshot_2](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/1c5f9d31-9cb0-4027-838e-62342812e79a)
+
+![Screenshot_3](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/2cbf7d4c-db66-4d2f-ad67-7c12e2bfa896)
+
+![Screenshot_4](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/0e107660-969a-4c3f-9741-f1c346b42db1)
+
+![Screenshot_5](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/d4fb317b-5876-4017-962e-f648d27d7bc9)
+
+![Screenshot_6](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/c1a383bc-6b7c-4558-bef1-869e7740a982)
+</div>
 
 ## 📄 Projeto
 O Ignite Call é um projeto desenvolvido para facilitar o agendamento de compromissos, utilizando um calendário com integração ao Google Agenda. 
