@@ -2,24 +2,28 @@
 Ignite Call 
 </h1>
 
+<div align="right">
+    Clique <a href="https://github.com/luc-ribeiro/ignite-call-next/blob/main/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
+
 <h2 align="center">Preview <a href="https://ignite-call-next-phi.vercel.app" target="_blank">Ignite Call</a></h2>
 
-## 📄 Projeto
-O Ignite Call é um projeto desenvolvido para facilitar o agendamento de compromissos, utilizando um calendário com integração ao Google Agenda. 
-Os usuários têm a praticidade de se cadastrar no aplicativo através de suas contas do Google, podendo então indicar os dias da semana e os horários nos quais estão disponíveis para agendar compromissos.
+## 📄 Project
+Ignite Call is a project developed to facilitate scheduling appointments using a calendar integrated with Google Calendar. 
+Users have the convenience of registering in the application through their Google accounts and can then indicate the days of the week and times they are available to schedule appointments.
 
-Uma das principais vantagens do Ignite Call é a sua sincronização automática com o Google Agenda. Isso significa que qualquer compromisso agendado na aplicação é imediatamente refletido no calendário do Google do usuário. 
-Essa integração simplifica significativamente o acompanhamento dos compromissos, permitindo que os usuários visualizem suas agendas consolidadas em um único lugar, diretamente na plataforma do Google.
+One of the main advantages of Ignite Call is its automatic synchronization with Google Calendar. This means that any appointment scheduled in the application is immediately reflected in the user's Google calendar. 
+This integration significantly simplifies tracking appointments, allowing users to view their consolidated schedules in one place, directly on the Google platform.
 
-Por exemplo, suponha que um usuário do Ignite Call tenha uma consulta médica marcada para segunda-feira às 10h. Após realizar o agendamento no aplicativo, 
-esse compromisso será automaticamente adicionado ao seu calendário do Google. Assim, ele pode facilmente acessar todos os seus compromissos, sejam eles profissionais ou pessoais, 
-através da interface familiar e intuitiva do Google Agenda.
+For example, suppose an Ignite Call user has a doctor's appointment scheduled for Monday at 10 am. After scheduling the appointment in the application, 
+it will automatically be added to their Google calendar. This way, they can easily access all their appointments, whether professional or personal, 
+through the familiar and intuitive Google Calendar interface.
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - **React**
 - **Next.js**
-- **Typescript**
+- **TypeScript**
 - **Node.js**
 - **Prisma**
 - **Google APIs**
@@ -32,7 +36,7 @@ através da interface familiar e intuitiva do Google Agenda.
 - **Zod**
 - **Design System**
 - **Stitches (CSS-in-JS)**
-- **Phosphor icons**
+- **Phosphor Icons**
 - **ESLint**
 - **date-fns**
 
@@ -48,20 +52,20 @@ através da interface familiar e intuitiva do Google Agenda.
 ![Screenshot_6](https://github.com/luc-ribeiro/ignite-call-next/assets/69688077/c1a383bc-6b7c-4558-bef1-869e7740a982)
 </div>
 
-## 🚀 Executando o projeto
+## 🚀 Running the project
 
-Para executar a aplicação, será preciso estabelecer uma conexão com um banco de dados local ou um contêiner Docker, integrando-o à ferramenta Prisma.io. 
-Também é necessário criar um projeto no Google Cloud Platform para obter as credenciais essenciais para o login e a integração com os serviços do Google, conforme detalhado no arquivo ```.env.example```. 
-Este arquivo também inclui a URL de conexão que o Prisma utilizará para se conectar ao banco de dados.
+To run the application, you will need to set up a connection to a local database or a Docker container and integrate it with Prisma.io. 
+You will also need to create a project in Google Cloud Platform to obtain the essential credentials for login and integration with Google services, as detailed in the ```.env.example``` file. 
+This file also includes the connection URL that Prisma will use to connect to the database.
 
 ```bash
-1. Clone este repositório em sua máquina
+1. Clone this repository to your machine
 $ git clone https://github.com/luc-ribeiro/ignite-call-react.git
 
-2. Instale as dependências
+2. Install the dependencies
 $ npm i
 
-3. Rode o projeto através do comando:
+3. Run the project using the command:
 $ npm run dev
 
-- A aplicação estará disponível no endereço `http://localhost:3000`
+- The application will be available at `http://localhost:3000`
