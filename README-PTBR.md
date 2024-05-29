@@ -3,7 +3,7 @@ Ignite Call
 </h1>
 
 <div align="right">
-  Click <a href="https://github.com/luc-ribeiro/ignite-call-react/blob/main/README.md">here</a> to view the english version.
+  Click <a href="https://github.com/luc-ribeiro/ignite-call-next/blob/main/README.md">here</a> to view the english version.
 </div>
 
 <h2 align="center">Preview <a href="https://ignite-call-next-phi.vercel.app" target="_blank">Ignite Call</a></h2>
