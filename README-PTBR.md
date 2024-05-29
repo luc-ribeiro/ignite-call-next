@@ -60,7 +60,7 @@ Este arquivo também inclui a URL de conexão que o Prisma utilizará para se co
 
 ```bash
 1. Clone este repositório em sua máquina
-$ git clone https://github.com/luc-ribeiro/ignite-call-react.git
+$ git clone https://github.com/luc-ribeiro/ignite-call-next.git
 
 2. Instale as dependências
 $ npm i
